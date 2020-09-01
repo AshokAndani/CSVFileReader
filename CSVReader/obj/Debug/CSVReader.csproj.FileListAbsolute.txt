@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\bin\Debug\CSVReader.exe.config
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\bin\Debug\CSVReader.exe
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\bin\Debug\CSVReader.pdb
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\obj\Debug\CSVReader.csprojAssemblyReference.cache
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\obj\Debug\CSVReader.Form1.resources
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\obj\Debug\CSVReader.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\obj\Debug\CSVReader.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\obj\Debug\CSVReader.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\obj\Debug\CSVReader.exe
+C:\Users\Lenovo\Desktop\MotilalOswal\CSVReader\CSVReader\obj\Debug\CSVReader.pdb
